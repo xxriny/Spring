@@ -15,7 +15,6 @@ class BubbleSortTest {
         // Given
         BubbleSort<Integer> bubbleSort = new BubbleSort<>();
 
-
         // When
         List<Integer> actual = bubbleSort.sort(List.of(3, 2, 4, 5, 1));
 
